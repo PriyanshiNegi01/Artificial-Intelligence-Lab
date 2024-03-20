@@ -5,3 +5,5 @@
 3. Sudoku (Constraint Satisfaction Problem)
 4. Graph Colouring (Greedy approach)
 5. BFS and DFS
+6. Best First Search
+7. A* Search Algorithm
