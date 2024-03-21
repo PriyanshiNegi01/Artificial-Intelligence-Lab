@@ -7,3 +7,4 @@
 5. BFS and DFS
 6. Best First Search
 7. A* Search Algorithm
+8. Minimax Algorithm
